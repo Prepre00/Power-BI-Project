@@ -1,4 +1,4 @@
-# MAVEN TOYS PROJECT
+# MAVEN TOY PROJECT
 
 ## Table of content
 - [Project overview](#project-overview)
