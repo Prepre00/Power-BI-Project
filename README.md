@@ -1,2 +1,3 @@
-# Power-BI-Project
-Maven toy Casestudy
+# MAVEN TOYS PROJECT
+
+## Table of content
