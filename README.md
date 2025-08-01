@@ -28,3 +28,4 @@ The dataset includes over 800,000 sales transactions and details about products,
 - DAX
 
 ## Dashboard Preview
+![Sales report]()
