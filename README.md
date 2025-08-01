@@ -28,4 +28,8 @@ The dataset includes over 800,000 sales transactions and details about products,
 - DAX
 
 ## Dashboard Preview
-![Sales report]()
+![Sales report](https://github.com/Prepre00/Power-BI-Project/blob/4d921969ea28367b6829b2324ecb255de8cf26f2/sales%20report%20maven%20toy.png)
+![Store report](https://github.com/Prepre00/Power-BI-Project/blob/4d921969ea28367b6829b2324ecb255de8cf26f2/stores%20maven%20toy.png)
+![Inventory report](https://github.com/Prepre00/Power-BI-Project/blob/4d921969ea28367b6829b2324ecb255de8cf26f2/inventory%20report%20maven%20toy.png)
+![Trends and pattern](https://github.com/Prepre00/Power-BI-Project/blob/4d921969ea28367b6829b2324ecb255de8cf26f2/Trend%20and%20pattern%20maven%20toy.png)
+![DASHBOARD](https://github.com/Prepre00/Power-BI-Project/blob/4d921969ea28367b6829b2324ecb255de8cf26f2/Maven%20toy%20dashboaard.png)
